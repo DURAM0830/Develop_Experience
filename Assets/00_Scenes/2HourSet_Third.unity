@@ -6083,8 +6083,8 @@ Transform:
   - {fileID: 1203817448}
   - {fileID: 1503853585}
   - {fileID: 1483086671}
-  - {fileID: 1146620300}
   - {fileID: 1891272069}
+  - {fileID: 1146620300}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11544,11 +11544,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1752235019}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e10efb77f4041324b899f7759487682f, type: 3}
+  m_Script: {fileID: 11500000, guid: 4e79f5a21fc50f74e8efa6245c1de5f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveDistance: 10
-  moveDuration: 0.5
 --- !u!1001 &1891272068
 PrefabInstance:
   m_ObjectHideFlags: 0
